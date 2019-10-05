@@ -22,3 +22,6 @@ Here comes the answer:
 6.Run the use_cnnmodel_totest.py and you can see the ./Project/test/result,in this folders,you can see a lot of the processed images which is already be put a label on.(on the center of the images,"Dog" or "Cat")
 
 Tips: I just used a random cnn model to train,so the accuracy is low(only 76%),so if you are not satisfied with the cnn,you can easily change the cnn model for a better result.(maybe a vgg or resnet)
+
+
+![result](https://github.com/chatterbox/kaggle-dogs-vs-cats/blob/master/102.jpg)
